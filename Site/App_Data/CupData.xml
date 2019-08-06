@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Cups>
+  <Cup Reference="Spring Plate" Name="Spring Plate"
+       DonatedBy="Tom Coleman"
+       Date="01/01/1983"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Peter Waters" />
+      <PreviousWinner Date="2006" Location="-" Winner="Bob Pegg" />
+      <PreviousWinner Date="2005" Location="-" Winner="Gwyn Ellis" />
+      <PreviousWinner Date="2004" Location="-" Winner="Andrew Payne" />
+      <PreviousWinner Date="2003" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="2002" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="2001" Location="-" Winner="Bill Bridgewater" />
+      <PreviousWinner Date="2000" Location="-" Winner="Harry Collins" />
+      <PreviousWinner Date="1999" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1998" Location="-" Winner="Paul Morris" />
+      <PreviousWinner Date="1997" Location="-" Winner="Ken Watkiss" />
+      <PreviousWinner Date="1996" Location="-" Winner="Bob Pegg" />
+      <PreviousWinner Date="1995" Location="-" Winner="Gary Sando" />
+      <PreviousWinner Date="1994" Location="-" Winner="Les Pegram" />
+      <PreviousWinner Date="1993" Location="-" Winner="Colin Martin" />
+      <PreviousWinner Date="1992" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1991" Location="-" Winner="Sean Fitt" />
+      <PreviousWinner Date="1990" Location="-" Winner="Graham Beetles" />
+      <PreviousWinner Date="1989" Location="-" Winner="Mike Litchfield" />
+      <PreviousWinner Date="1988" Location="-" Winner="Brian Jackson" />
+      <PreviousWinner Date="1987" Location="-" Winner="Paul Morris" />
+      <PreviousWinner Date="1986" Location="-" Winner="Gary Carter" />
+      <PreviousWinner Date="1985" Location="-" Winner="Ron Waller" />
+      <PreviousWinner Date="1984" Location="-" Winner="Gordon Morris" />
+      <PreviousWinner Date="1983" Location="-" Winner="Ron Bassam" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Bill Manton Cup" Name="Bill Manton Cup"
+       DonatedBy="Mrs Manton"
+       Date="01/01/2002"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="Craig Caswell" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Colin Woolnough" />
+      <PreviousWinner Date="2006" Location="-" Winner="Mike Allridge" />
+      <PreviousWinner Date="2005" Location="-" Winner="Mike Allridge" />
+      <PreviousWinner Date="2004" Location="-" Winner="Steve Ashford" />
+      <PreviousWinner Date="2003" Location="-" Winner="Tony Bodley" />
+      <PreviousWinner Date="2002" Location="-" Winner="Harry Collins" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Eric Attfield Memorial Cup" Name="Eric Attfield Memorial Cup"
+       DonatedBy="Mike Litchfield"
+       Date="01/01/2000"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="Peter Zimmer-Smith" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Steve Temple" />
+      <PreviousWinner Date="2006" Location="-" Winner="Colin Woolnough" />
+      <PreviousWinner Date="2005" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2004" Location="-" Winner="Charles Wallis" />
+      <PreviousWinner Date="2003" Location="-" Winner="Ken Gordon" />
+      <PreviousWinner Date="2002" Location="-" Winner="Ralph Chambers" />
+      <PreviousWinner Date="2001" Location="-" Winner="Karl Bukin" />
+      <PreviousWinner Date="2000" Location="-" Winner="Paul Morris" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Three Club Trophy" Name="Three Club Trophy"
+       DonatedBy="Terry Morris"
+       Date="1986"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Roger Bukin" />
+      <PreviousWinner Date="2007" Location="-" Winner="Roger Bukin" />
+      <PreviousWinner Date="2006" Location="-" Winner="Brian West" />
+      <PreviousWinner Date="2005" Location="-" Winner="Ralph Chambers" />
+      <PreviousWinner Date="2004" Location="-" Winner="Sean Fitt" />
+      <PreviousWinner Date="2003" Location="-" Winner="Ken Watkiss" />
+      <PreviousWinner Date="2002" Location="-" Winner="Ken Watkiss" />
+      <PreviousWinner Date="2001" Location="-" Winner="Tony Morris" />
+      <PreviousWinner Date="2000" Location="-" Winner="Harry Collins" />
+      <PreviousWinner Date="1999" Location="-" Winner="Dick Adams" />
+      <PreviousWinner Date="1998" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1997" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1996" Location="-" Winner="Dave Lilley" />
+      <PreviousWinner Date="1995" Location="-" Winner="-" />
+      <PreviousWinner Date="1994" Location="-" Winner="-" />
+      <PreviousWinner Date="1993" Location="-" Winner="Tim Berridge" />
+      <PreviousWinner Date="1992" Location="-" Winner="Steve Lee" />
+      <PreviousWinner Date="1991" Location="-" Winner="Steve Lee" />
+      <PreviousWinner Date="1990" Location="-" Winner="Peter Clarke" />
+      <PreviousWinner Date="1989" Location="-" Winner="John Garvey" />
+      <PreviousWinner Date="1988" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="1987" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1986" Location="-" Winner="Brian Arbon" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Greensome Cup" Name="Greensome Cup"
+       DonatedBy="Concord Trophies"
+       Date="01/01/1999"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="Martyn West / Brian West" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Martyn West / James Zimmer-Smith" />
+      <PreviousWinner Date="2006" Location="-" Winner="David Morris / Andrew Payne" />
+      <PreviousWinner Date="2005" Location="-" Winner="Damien Turley / Brett Leopold" />
+      <PreviousWinner Date="2004" Location="-" Winner="Mike Allridge / Graham Beetles" />
+      <PreviousWinner Date="2003" Location="-" Winner="Matthew Lau / Charles Cassidy" />
+      <PreviousWinner Date="2002" Location="-" Winner="Harry Collins / Ralph Chambers" />
+      <PreviousWinner Date="2001" Location="-" Winner="Mike Allridge / Len Green" />
+      <PreviousWinner Date="2000" Location="-" Winner="David Morris / Tony Morris" />
+      <PreviousWinner Date="1999" Location="-" Winner="Brian West / Paul Creasey" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Denis Sando Cup" Name="Denis Sando Cup"
+       DonatedBy="Gary Sando"
+       Date="01/01/2000"
+       Purpose="Presented by Gary Sando, marking his father's retirement from golf">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="Craig Caswell" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Steve Foster" />
+      <PreviousWinner Date="2006" Location="-" Winner="Colin Woolnough" />
+      <PreviousWinner Date="2005" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2004" Location="-" Winner="Harry Collins" />
+      <PreviousWinner Date="2003" Location="-" Winner="Gordon Morris" />
+      <PreviousWinner Date="2002" Location="-" Winner="Charles Wallis" />
+      <PreviousWinner Date="2001" Location="-" Winner="Tony Morris" />
+      <PreviousWinner Date="2000" Location="-" Winner="Mike Litchfield" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Captains Cup" Name="Captains Cup"
+       DonatedBy="Geoff Cooper"
+       Date="01/01/1995"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Terry Fuller" />
+      <PreviousWinner Date="2007" Location="-" Winner="Mike Allridge" />
+      <PreviousWinner Date="2006" Location="-" Winner="Leigh Bembrick" />
+      <PreviousWinner Date="2005" Location="-" Winner="James Brown" />
+      <PreviousWinner Date="2004" Location="-" Winner="Gordon Morris" />
+      <PreviousWinner Date="2003" Location="-" Winner="Bob Pegg" />
+      <PreviousWinner Date="2002" Location="-" Winner="Damien Turley" />
+      <PreviousWinner Date="2001" Location="-" Winner="Stuart Hattrick" />
+      <PreviousWinner Date="2000" Location="-" Winner="Ben Ashford" />
+      <PreviousWinner Date="1999" Location="-" Winner="Graham Beetles" />
+      <PreviousWinner Date="1998" Location="-" Winner="Alan Fitt" />
+      <PreviousWinner Date="1997" Location="-" Winner="Phil Leach" />
+      <PreviousWinner Date="1996" Location="-" Winner="Bob Pegg" />
+      <PreviousWinner Date="1995" Location="-" Winner="Chris Smith" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Bogey Cup" Name="Bogey Cup"
+       DonatedBy="Steve Lee"
+       Date="01/01/1996"
+       Purpose="Presented by Steve Lee to celebrate his year as Captain">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Robert Clayton" />
+      <PreviousWinner Date="2007" Location="-" Winner="Mike Allridge" />
+      <PreviousWinner Date="2006" Location="-" Winner="Peter Waters" />
+      <PreviousWinner Date="2005" Location="-" Winner="Mike Berry" />
+      <PreviousWinner Date="2004" Location="-" Winner="Andrew Payne" />
+      <PreviousWinner Date="2003" Location="-" Winner="Gary Sando" />
+      <PreviousWinner Date="2002" Location="-" Winner="Alan Lewis" />
+      <PreviousWinner Date="2001" Location="-" Winner="Steve Ashford" />
+      <PreviousWinner Date="2000" Location="-" Winner="Paul Morris" />
+      <PreviousWinner Date="1999" Location="-" Winner="Mike Allridge" />
+      <PreviousWinner Date="1998" Location="-" Winner="Martyn West" />
+      <PreviousWinner Date="1997" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="1996" Location="-" Winner="Mike Litchfield" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Anniversary Cup" Name="Anniversary Cup"
+       DonatedBy="Bengeo Golf Society"
+       Date="01/01/1992"
+       Purpose="Presented by Bengeo Golf Society to celebrate their 10 year anniversary">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Gwyn Ellis" />
+      <PreviousWinner Date="2007" Location="-" Winner="Leigh Bembrick" />
+      <PreviousWinner Date="2006" Location="-" Winner="Charles Wallis" />
+      <PreviousWinner Date="2005" Location="-" Winner="Sid Pltten" />
+      <PreviousWinner Date="2004" Location="-" Winner="Sid Platten" />
+      <PreviousWinner Date="2003" Location="-" Winner="Steve Foster" />
+      <PreviousWinner Date="2002" Location="-" Winner="Terry Clark" />
+      <PreviousWinner Date="2001" Location="-" Winner="Michael Cooper" />
+      <PreviousWinner Date="2000" Location="-" Winner="Keith Hargreaves" />
+      <PreviousWinner Date="1999" Location="-" Winner="Gordon Morris" />
+      <PreviousWinner Date="1998" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1997" Location="-" Winner="Colin Martin" />
+      <PreviousWinner Date="1996" Location="-" Winner="Steve Lee" />
+      <PreviousWinner Date="1995" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1994" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1993" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="1992" Location="-" Winner="Sean Escott" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Aphid Pairs Cup" Name="Aphid Pairs Cup"
+       DonatedBy="Sean Fitt"
+       Date="01/01/1990"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Bryan Ruskin / Richard Smith" />
+      <PreviousWinner Date="2007" Location="-" Winner="Gary Sando / Mike Wallis" />
+      <PreviousWinner Date="2006" Location="-" Winner="Craig Caswell / Peter Waters" />
+      <PreviousWinner Date="2005" Location="-" Winner="Gordon Morris / Andrew Payne" />
+      <PreviousWinner Date="2004" Location="-" Winner="Stan Kelley / Simon Purkiss" />
+      <PreviousWinner Date="2003" Location="-" Winner="Ken Gordon / Andrew Payne" />
+      <PreviousWinner Date="2002" Location="-" Winner="Damien Turley / Mike Allridge" />
+      <PreviousWinner Date="2001" Location="-" Winner="Karl Bukin / Gerald Burtenshaw" />
+      <PreviousWinner Date="2000" Location="-" Winner="Steve Foster / Martin Williamson" />
+      <PreviousWinner Date="1999" Location="-" Winner="-" />
+      <PreviousWinner Date="1998" Location="-" Winner="Martyn west / John Ellis" />
+      <PreviousWinner Date="1997" Location="-" Winner="Colin Martin / Lee Cooper" />
+      <PreviousWinner Date="1996" Location="-" Winner="Graham Beetles / Gorson Morris" />
+      <PreviousWinner Date="1995" Location="-" Winner="Steve Ashford / Gordon Morris" />
+      <PreviousWinner Date="1994" Location="-" Winner="-" />
+      <PreviousWinner Date="1993" Location="-" Winner="-" />
+      <PreviousWinner Date="1992" Location="-" Winner="Steve Lee / Brian Simpson" />
+      <PreviousWinner Date="1991" Location="-" Winner="Alan Hobbs / Brian Hobbs" />
+      <PreviousWinner Date="1990" Location="-" Winner="Stan Kelley / Les Pegram" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Autumn Cup" Name="Autumn Cup"
+       DonatedBy="Stan Kelley"
+       Date="01/01/1983"
+       Purpose="A brief description of the purpose and reasoning for the cup">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="Richard Fobbester" />
+      <PreviousWinner Date="2007" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2006" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="2005" Location="-" Winner="Dave O'Brien" />
+      <PreviousWinner Date="2004" Location="-" Winner="Tom Lavery" />
+      <PreviousWinner Date="2003" Location="-" Winner="Ben Ashford" />
+      <PreviousWinner Date="2002" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2001" Location="-" Winner="Paul Morris" />
+      <PreviousWinner Date="2000" Location="-" Winner="Ian Fursland" />
+      <PreviousWinner Date="1999" Location="-" Winner="Colin Woolnough" />
+      <PreviousWinner Date="1998" Location="-" Winner="Dennis Dawson" />
+      <PreviousWinner Date="1997" Location="-" Winner="Gary Sando" />
+      <PreviousWinner Date="1996" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1995" Location="-" Winner="Phil Leach" />
+      <PreviousWinner Date="1994" Location="-" Winner="Phil Leach" />
+      <PreviousWinner Date="1993" Location="-" Winner="Gary Sando" />
+      <PreviousWinner Date="1992" Location="-" Winner="David Morris" />
+      <PreviousWinner Date="1991" Location="-" Winner="Bert Storey" />
+      <PreviousWinner Date="1990" Location="-" Winner="Dave Prince" />
+      <PreviousWinner Date="1989" Location="-" Winner="Brian Simpson" />
+      <PreviousWinner Date="1988" Location="-" Winner="Morton Love" />
+      <PreviousWinner Date="1987" Location="-" Winner="George Cowler" />
+      <PreviousWinner Date="1986" Location="-" Winner="Tony Morris" />
+      <PreviousWinner Date="1985" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1984" Location="-" Winner="John Reid" />
+      <PreviousWinner Date="1983" Location="-" Winner="David Morris" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="President Cup" Name="President Cup"
+       DonatedBy="Stan Kelley"
+       Date="01/01/2003"
+       Purpose="-">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="Phil Houston" />-->
+      <PreviousWinner Date="2008" Location="-" Winner="-" />
+      <PreviousWinner Date="2007" Location="-" Winner="Joe McGuire" />
+      <PreviousWinner Date="2006" Location="-" Winner="Peter Waters" />
+      <PreviousWinner Date="2005" Location="-" Winner="Craig Caswell" />
+      <PreviousWinner Date="2004" Location="-" Winner="Andrew Payne" />
+      <PreviousWinner Date="2003" Location="-" Winner="Sean Fitt" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Charity Cup" Name="Charity Cup"
+       DonatedBy="Roy Allen"
+       Date="01/01/1995"
+       Purpose="President of Bengeo Working Mens Club">
+    <PreviousWinners>
+      <PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="-" />
+      <PreviousWinner Date="2007" Location="-" Winner="-" />
+      <PreviousWinner Date="2006" Location="-" Winner="-" />
+      <PreviousWinner Date="2005" Location="-" Winner="-" />
+      <PreviousWinner Date="2004" Location="-" Winner="Martin Williamson" />
+      <PreviousWinner Date="2003" Location="-" Winner="Brian Dellow" />
+      <PreviousWinner Date="2002" Location="-" Winner="-" />
+      <PreviousWinner Date="2001" Location="-" Winner="-" />
+      <PreviousWinner Date="2000" Location="-" Winner="-" />
+      <PreviousWinner Date="1999" Location="-" Winner="-" />
+      <PreviousWinner Date="1998" Location="-" Winner="-" />
+      <PreviousWinner Date="1997" Location="-" Winner="-" />
+      <PreviousWinner Date="1996" Location="-" Winner="Mike Litchfield" />
+      <PreviousWinner Date="1995" Location="-" Winner="David Morris" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Christmas Texas Scramble" Name="Christmas Texas Scramble"
+       DonatedBy="-"
+       Date="01/01/2001"
+       Purpose="President of Bengeo Working Mens Club">
+    <PreviousWinners>
+      <!--<PreviousWinner Date="2010" Location="-" Winner="-" />
+      <PreviousWinner Date="2009" Location="-" Winner="-" />
+      <PreviousWinner Date="2008" Location="-" Winner="-" />-->
+      <PreviousWinner Date="2007" Location="-" Winner="Barry Ruskin / Scott Ruskin / Geoff Cooper / Ivan Pettit" />
+      <PreviousWinner Date="2006" Location="-" Winner="Martyn West / Mark Richardson / Phil Houston / Bill Bridgewater" />
+      <PreviousWinner Date="2005" Location="-" Winner="Stan Kelley / Graham Beetles / Jason Turner / Charles Wallis" />
+      <PreviousWinner Date="2004" Location="-" Winner="Jim McGarry / Bill McGarry / Damien Turley / Ralph Chambers" />
+      <PreviousWinner Date="2003" Location="-" Winner="Alan Lewis / Mark Stevens / Jim Caldrey" />
+      <PreviousWinner Date="2002" Location="-" Winner="Steve Langridge / Dave Beeching / Damien Turley / Ken Watkiss" />
+      <PreviousWinner Date="2001" Location="-" Winner="Matrin Williamson / Leo Smith / Bill Williams / Gerald Burtenshaw" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="McMullen Cup" Name="McMullen Cup Singles Knock Out"
+       DonatedBy="McMullen"
+       Date="01/01/1989"
+       Purpose="-">
+    <PreviousWinners>
+      <PreviousWinner Date="2013" Location="-" Winner="Phil Greenwold" />
+      <PreviousWinner Date="2012" Location="-" Winner="Steve Langridge" />
+      <PreviousWinner Date="2011" Location="-" Winner="Harry Collins" />
+      <PreviousWinner Date="2010" Location="-" Winner="Phil Greenwold" />
+      <PreviousWinner Date="2009" Location="-" Winner="John Richardson" />
+      <PreviousWinner Date="2008" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2007" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="2006" Location="-" Winner="Steve Temple" />
+      <PreviousWinner Date="2005" Location="-" Winner="Martyn West" />
+      <PreviousWinner Date="2004" Location="-" Winner="Steve Langridge" />
+      <PreviousWinner Date="2003" Location="-" Winner="Mark Stevens" />
+      <PreviousWinner Date="2002" Location="-" Winner="James Brown" />
+      <PreviousWinner Date="2001" Location="-" Winner="Dick Adams" />
+      <PreviousWinner Date="2000" Location="-" Winner="Joe McGuire" />
+      <PreviousWinner Date="1999" Location="-" Winner="Dick Adams" />
+      <PreviousWinner Date="1998" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1997" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1996" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1995" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1994" Location="-" Winner="Stan Kelley" />
+      <PreviousWinner Date="1993" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1992" Location="-" Winner="George Cant" />
+      <PreviousWinner Date="1991" Location="-" Winner="Dennis Deards" />
+      <PreviousWinner Date="1990" Location="-" Winner="Geoff Cooper" />
+      <PreviousWinner Date="1989" Location="-" Winner="Graham Beetles" />
+    </PreviousWinners>
+  </Cup>
+  <Cup Reference="Pairs" Name="Pairs Knock Out Cup"
+       DonatedBy="Concord Trophies"
+       Date="01/01/1987"
+       Purpose="-">
+    <PreviousWinners>
+      <PreviousWinner Date="2013" Location="-" Winner="Phil Greenwold / Stan Kelley" />
+      <PreviousWinner Date="2012" Location="-" Winner="Phil Greenwold / Stan Kelley" />
+      <PreviousWinner Date="2011" Location="-" Winner="Craig Caswell / Steve Temple" />
+      <PreviousWinner Date="2010" Location="-" Winner="Steve Langridge / Ken Gordon" />
+      <PreviousWinner Date="2009" Location="-" Winner="Martyn West / Simon Purkiss" />
+      <PreviousWinner Date="2008" Location="-" Winner="Terry Fuller / Graham Beetles" />
+      <PreviousWinner Date="2007" Location="-" Winner="Mike Allridge / Joe McGuire" />
+      <PreviousWinner Date="2006" Location="-" Winner="Ken Gordon / Steve Langridge" />
+      <PreviousWinner Date="2005" Location="-" Winner="Ken Gordon / Steve Langridge" />
+      <PreviousWinner Date="2004" Location="-" Winner="Martyn West / Ron Bruin" />
+      <PreviousWinner Date="2003" Location="-" Winner="Bill Bridgewater / James Brown" />
+      <PreviousWinner Date="2002" Location="-" Winner="Steve Langridge / Ken Gordon" />
+      <PreviousWinner Date="2001" Location="-" Winner="Karl Bukin / Dan Bukin" />
+      <PreviousWinner Date="2000" Location="-" Winner="Tom Lavery / Matthew Lau" />
+      <PreviousWinner Date="1999" Location="-" Winner="Joe McGuire / Mike Allridge" />
+      <PreviousWinner Date="1998" Location="-" Winner="Stan Kelley / Tim Berridge" />
+      <PreviousWinner Date="1997" Location="-" Winner="David Morris / Brian Jackson" />
+      <PreviousWinner Date="1996" Location="-" Winner="Bob Pegg / Matthew Lau" />
+      <PreviousWinner Date="1995" Location="-" Winner="Steve Lee / Mike Litchfield" />
+      <PreviousWinner Date="1994" Location="-" Winner="Stan Kelley / Tim Berridge" />
+      <PreviousWinner Date="1993" Location="-" Winner="Steve Ashford / Dennis Sando" />
+      <PreviousWinner Date="1992" Location="-" Winner="-" />
+      <PreviousWinner Date="1991" Location="-" Winner="Stan Kelley / Dennis Dawson" />
+      <PreviousWinner Date="1990" Location="-" Winner="Mike Litchfield / Sean Fitt" />
+      <PreviousWinner Date="1989" Location="-" Winner="George Cant / Brian Simpson" />
+      <PreviousWinner Date="1988" Location="-" Winner="Stan Kelley / Dennis Dawson" />
+      <PreviousWinner Date="1987" Location="-" Winner="David Demsley / Bert Storey" />
+    </PreviousWinners>
+  </Cup>
+</Cups>

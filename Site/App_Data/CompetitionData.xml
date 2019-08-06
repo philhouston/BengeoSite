@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Competitions>
+  <Competition Name="Spring Plate" Format="18 Holes Single Stableford" History="Spring Plate donated by XXXXXX on the 15th May 1980, in memory of XXXXX" Trophy="Spring Plate" />
+  <Competition Name="Bill Manton Cup" Format="18 Holes Single Stableford" History="Bill Manton Cup donated by XXXXXX on the 15th May 1980, in memory of Bill Manton" Trophy="Bill Manton Cup" />
+  <Competition Name="Three Club Trophy" Format="9 Holes Single Stableford (Only the putter and two other clubs permitted)" History="" Trophy="Three Club Trophy" />
+  <Competition Name="Eric Attfield Memorial Cup" Format="18 Holes Single Stableford" History="" Trophy="Eric Attfield Memorial Cup" />
+  <Competition Name="Greensome Cup" Format="9 Holes Greensome Stableford" History="" Trophy="Greensome Cup" />
+  <Competition Name="Denis Sando Cup" Format="18 Holes Singles Stableford" History="" Trophy="Denis Sando Cup" />
+  <Competition Name="Aphid Cup" Format="9 Holes 4 Ball Better Ball Pairs" History="" Trophy="Aphid Cup" />
+  <Competition Name="Autumn Cup" Format="18 Holes Singles Stableford" History="" Trophy="Autumn Cup" />
+  <Competition Name="Denis Sando Cup " Format="18 Holes Singles Stableford" History="" Trophy="Denis Sando Cup" />
+  <Competition Name="Bogey Cup" Format="9 Holes Bogie Stableford" History="" Trophy="Bogie Cup" />
+  <Competition Name="Anniversary Cup" Format="18 Holes Singles Stableford" History="" Trophy="Anniversary Cup" />
+  <Competition Name="Captains Team Event" Format="9 Holes team event, best two scores each hole, plus Yellow Ball" History="" Trophy="-" />
+  <Competition Name="Captains Cup" Format="18 Holes Singles Stableford" History="" Trophy="Captains Cup" />
+  <Competition Name="Team Event" Format="18 Hole Singles Stableford plus teams-of-4 (best 2 scores each hole and all four on Par 3s)" History="" Trophy="-" />
+  <Competition Name="President Cup" Format="18 Hole Singles Stableford" History="" Trophy="Presidents Cup" />
+  <Competition Name="Fun Cup" Format="18 Hole Singles Stableford (exact playing detailed to be provided on the day)" History="" Trophy="-" />
+  <Competition Name="Christmas Texas Scramble" Format="18 Hole Texas Scamble, played as a medal, not stableford. At least three tee shots must be used from every player" History="" Trophy="-" />
+</Competitions>

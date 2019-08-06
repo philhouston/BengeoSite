@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Clubs>
+  <Club Reference="Welwyn Garden" Name="Welwyn Garden City GC"
+      Secretary="David Spring" SecPhone="01707 325243"
+      Address="Mannicotts, High Oaks Road, Welwyn Garden City, Hertfordshire, AL8 7BP"
+      ProName="Stuart Mason" ProPhone="01707 325525"
+      WebSite="http://www.welwyngardencitygolfclub.co.uk/"
+      Designer="-"
+      Yardage="5854" Par="70"
+      VisitorInfo="Always welcome">
+    <Directions>
+      <Direction Name="From the North">
+        Leave the A1(M) at junction 6 for Welwyn Garden City (A1000) and Welwyn (A656) then follow the B197 towards Stanborough. 
+        Go past the Red Lion pub, and at the roundabout at the bottom of the hill turn left into Valley Road (B195). Take the first left into High Oaks Road then first left into Mannicotts.
+      </Direction>
+      <Direction Name="From the South">
+        If using the M25, leave it at Junction 23 (Hatfield) and travel north on A1(M). Leave the A1(M) at Junction 4 after passing the Hatfield tunnel, south of Welwyn Garden City at Junction with the A414.
+        Follow signs for the town along the A6129, turning left at the roundabout, going under the motorway. At the next roundabout take the fourth exit on to the B197.
+        At the next roundabout take the fourth exist under the bridge. Go staight over the next roundabout (second exit) into Valley Road (B195). Take the first left into High Oaks Road and then first left into Mannicotts.
+      </Direction>
+    </Directions>
+    <Pictures>
+    </Pictures>
+  </Club>
+  <Club Reference="Bishops Stortford" Name="Bishops Stortford"
+        Secretary="Judy Barker" SecPhone="01279 654715"
+        Address="Dunmow Road, Bishop's Stortford, Hertfordshire, CM23 5HP"
+        ProName="Simon Sheppard" ProPhone="01279 651324"
+        WebSite="http://www.bsgc.co.uk/"
+        Designer="-"
+        Yardage="6174" Par="71"
+        VisitorInfo="Always welcome">
+    <Directions>
+      <Direction Name="From M11">
+        Take Exit 8 on the M11. Follow A120 and Dunmow Rd (A1250) towards Bishop's Stortford, club should be located on your left.
+      </Direction>
+    </Directions>
+    <Pictures>
+    </Pictures>
+  </Club>
+  <Club Reference="SouthBeds" Name="South Beds Golf Club"
+        Secretary="-" SecPhone="01582 591500"
+        Address="Warden Hill Road, Luton, LU2 7AE"
+        ProName="Michael Davis" ProPhone="01582 591209"
+        WebSite="http://www.southbedsgolfclub.co.uk/"
+        Designer="-"
+        Yardage="Galley Course 6400 / Warden Course 4700" Par="Galley 72 / Warden 34"
+        VisitorInfo="Always welcome">
+    <Directions>
+      <Direction Name="From A1">
+      </Direction>
+    </Directions>
+    <Pictures>
+    </Pictures>
+  </Club>
+  <Club Reference="Abbotsley" Name="Abbotsley Golf and Country Club"
+        Secretary="-" SecPhone="01480 474000"
+        Address="Eynesbury. Hardwicke St. Neots, Cambridgeshire, PE19 6XN"
+        ProName="Steve Connolly" ProPhone="01480 477669"
+        WebSite="http://www.crown-golf.co.uk/templates/clubs_golfclub.aspx?id=22"
+        Designer="-"
+        Yardage="Abbotsley 6311 / Cromwell 6087" Par="Abbotsley 72 / Cromwell 70"
+        VisitorInfo="Always welcome">
+    <Directions>
+      <Direction Name="From A1M">
+        Leave the A1M and follow the signs for Cambridge A428. At the Tesco
+        roundabout turn left (if you are coming from Cambridge, turn right at this
+        roundabout). At the next main roundabout, turn right into Cromwell Road and then
+        right at the traffic lights into Potton Road.
+        After approximately one mile the road bears shallow left, do not follow this
+        but carry straight on - club is approximately a quarter mile on the left hand side.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/ashridge/ashridgecourse.jpg" Name="Course" />
+      <Picture Url="images/courses/ashridge/ashridgeclubhouse.jpg" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="Ashridge" Name="Ashridge Golf Club"
+        Secretary="Martin Silver" SecPhone="01442 842244"
+        Address=""
+        ProName="Peter Cherry" ProPhone="01422 842307"
+        WebSite="http://www.ashridgegolfclub.ltd.uk"
+        Designer="Sir Guy Cambell / C.K. Hutchinson / N V Hotchkin"
+        Yardage="6625" Par="72"
+        VisitorInfo="Must contact Secretary in advance, weekdays only">
+    <Directions>
+      <Direction Name="From M25">
+        Leave at exit 20, take the A41 (dual carrigeway) towards
+        Aylesbury. Leave A41 at the Chesham exit - A416. Follow signs to
+        Berkhamsted. At traffic lights on junction with Berkham High Street
+        turn left. After a mile or so, reach Northchurch. Turn right by school and
+        Church onto B4506 (called New Road) sign posted Ashridge. After
+        approximately 3 miles, Club is on the right hand side. Private road to clubhouse
+        and car park.
+      </Direction>
+      <Direction Name="From M1 J11">
+        Turn under Motorway towards Dunstable. In middle of Dunstable
+        ,double/offset mini roundabouts (where A5 crosses) but go straight across -
+        stay on this road for about 2 miles. After leaving Dunstable will reach
+        roundabout with the Monsoon Indian Resturant on right, turn left onto B4506
+        signposted to Dagnall. Road runs along the bottom of Whipsnade to Dagnall.
+        Straight across mini-roundabout at Dagnall, up the hill into Ringshall and
+        Club entrance is sign-posted about half mile further on left. Follow private
+        road to clubhouse and car park going south.
+      </Direction>
+      <Direction Name="From M1 J8">
+        Straight across all roundabouts until reaching the "magic roundabout" in
+        center of Hemel Hempstead. Turn rough around aroundabout and take the
+        A4146 to Leighton Buzzard. Stay on this road for about 7 miles, going over
+        narrow bridge at Water End, until reaching mini-roundabout at Dagnall. Turn
+        left onto B4506. Up the hill into Ringshall and Club entrance is sign-posted
+        about half mile further on left. Follow private road to clubhouse and car park.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/ashridge/ashridgecourse.jpg" Name="Course" />
+      <Picture Url="images/courses/ashridge/ashridgeclubhouse.jpg" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="Aspley Guise" Name="Aspley Guise and Woburn Sands Golf Club"
+        Secretary="Richard Norris" SecPhone="01908 583596"
+        Address="West Hill, Aspley Guise, Bedfordshire, MK17 8DX"
+        ProName="Richard Lally" ProPhone="01908 582974"
+        WebSite="http://www.aspleyguisegolfclub.co.uk/"
+        Designer="Shadow / Herd"
+        Yardage="6085" Par="71"
+        VisitorInfo="Weekdays handicap certificate required. Weekends and bank holidays with a member, handicap certificate required">
+    <Directions>
+      <Direction Name="Location">
+        The course is situated just two miles from the M1 junction 13. Aspley Guise is will
+        signposted, but carry straight on, do not branch left at Woburn. Look out for the course
+        on the right, towards the end of Aspley Guise village, you can easily go past it, so slow right down.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/ashridge/ashridgecourse.jpg" Name="Course" />
+      <Picture Url="images/courses/ashridge/ashridgeclubhouse.jpg" Name="Club House" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Brocket Hall" Name="Brocket Hall Golf Club"
+        Secretary="TBC" SecPhone="01707 335241"
+        Address="Brocket Hall Golf Club, Welwyn, Hertfordshire, AL8 7XG"
+        ProName="TBC" ProPhone="01707 394994"
+        WebSite="http://golf-club.brocket-hall.co.uk/home.html"
+        Designer="TBC"
+        Yardage="6473" Par="72"
+        VisitorInfo="Visitors must pre-book on 01707 394994.">
+    <Directions>
+      <Direction Name="Location">
+        Brocket Hall is located about 1 mile from the A1000 Great North Road
+      </Direction>
+      <Direction Name="From A1 North">
+        Take the A1000 exit to Welwyn Garden City. At the roundabout take the 3rd exit onto Hertford road/A1000 heading to Stevenage/A1/B197.
+        Keep left at the fork, follow signs for Welwyn. Turn left as Prospect Pl. Turn left as London Road.
+        Turn right at Welwyn By Pass Road / B197
+        Turn right at Ayot Green, follow the road to the golf club.
+      </Direction>
+      <Direction Name="From Hertford">
+        At Juncton 4 on the A1 North, take the A414 exit to Hertford/Welwyn Garden City/A6129/Wheathampstead/B653.
+        At the roundabout, take the 1st exist onto A6129 heading to STanborough/Wheathampstead/B653.
+        At the next roundabout, take the 3rd exit onto Brocket Road/B653. Turn slight right at Lemsford Village.
+        Follow the road to the golf club.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/brocket hall/clubhouse.png" Name="Club House" />
+      <Picture Url="images/courses/brocket hall/clubhouse2.png" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="Brookmans Park" Name="Brookman's Park Golf Club"
+        Secretary="TBC" SecPhone="01707 652487"
+        Address="Golf Club Road, Brookmans Park, Hatfield, AL9 7AT"
+        ProName="Ian Jelley" ProPhone="01707 652468"
+        WebSite="http://www.bpgc.co.uk"
+        Designer="TBC"
+        Yardage="6473" Par="71"
+        VisitorInfo="Visitors are always welcome.">
+    <Directions>
+      <Direction Name="Location">
+        Brookmans Park is located off the A1000 Great North Raod, one mile north
+        of Potters Mar (M25 J24)
+      </Direction>
+      <Direction Name="From A1 North">
+        Take the A1001 exit south of Hatfield tunnel. The A1001 becomes the A1000
+        after about a mile. After you pass the Essendon turn-off (on your left)
+        look out for the sign to Brookmans Park golf club on your right.
+      </Direction>
+      <Direction Name="From Hertford">
+        Take the Essendon road and continue right through to the A1000. Turn left
+        towards Potters Bar, then look out for the sign to Brookmans Park Golf Club
+        on your right
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/brookmans park/brookmanspark1st.jpg" Name="1st Hole" />
+      <Picture Url="images/courses/brookmans park/brookmanspark5th.jpg" Name="5th Hole" />
+      <Picture Url="images/courses/brookmans park/brookmansparkClubHouse.jpg" Name="Club House" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Chesfield Downs" Name="Chesfield Downs Golf and Country Club"
+        Secretary="-" SecPhone="01462 482929"
+        Address="Jack's Hill, Gravely, Nr Stevenage, SG4 7EQ"
+        ProName="-" ProPhone="01462 482929"
+        WebSite="http://www.chesfielddownsgolf.co.uk"
+        Designer="Jonathan Guant"
+        Yardage="6646" Par="71"
+        VisitorInfo="Chesfield Downs welcomes visitors all the time, however you must book a tee time, this can be done online on their website.">
+    <Directions>
+      <Direction Name="Location">
+        Chesfield Downs Golf and Country Club is located minutes from Junction 8 off the A1. It's near Stevenage, Hitchin, Letchworth and Baldock on the B197.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Course" />
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Crews Hill" Name="Crews Hill Golf Club"
+        Secretary="Adam McColl" SecPhone="020 8363 6674"
+        Address="Cattlegate Road, Crewes Hill, Enfield, Middlesex, EN2 8AZ"
+        ProName="Carl Parker" ProPhone="020 8366 7422"
+        WebSite="http://www.crewshillgolfclub.com"
+        Designer="Harry Colt"
+        Yardage="6281" Par="70"
+        VisitorInfo="visitors are welcome throughout the week.">
+    <Directions>
+      <Direction Name="Location">
+        At Junction 24 of the M25, take the A111 exit to Potters bar. At the round about take Ridgeway/A1005 exit. Turn left into East Lodge Lane. Turn right onto Cattlegate Road, the club will be on the right hand side.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Course" />
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+
+  <!-- ***************************** -->
+  <Club Reference="Dunston Hall" Name="Dunston Hall Hotel and Golf Club"
+        Secretary="-" SecPhone="01508 470444"
+        Address="Dunston Hall, Ipswich Road, Norwich, Norfolk, NR14 8PQ"
+        ProName="Peter Briggs" ProPhone="01508 470444"
+        WebSite="http://www.devere.co.uk/heritage/dunston-hall"
+        Designer="J Glasgow"
+        Yardage="6275" Par="71"
+        VisitorInfo="Unrestricted.">
+    <Directions>
+      <Direction Name="Location">
+        5 miles south of Norwich on A140. Take the A11 almost all the way to Norwich, turning right on the A47, then right again on the A140. The hotel is 1 mile on your left.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Course" />
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="East Herts" Name="East Herts Golf Club"
+        Secretary="-" SecPhone="01920 821978"
+        Address="Hamels Park, Buntingford, Hertfordshire, SG9 9NA"
+        ProName="Daniel Field" ProPhone="01920 821922"
+        WebSite="http://www.easthertsgolfclub.co.uk/"
+        Designer="-"
+        Yardage="6440" Par="71"
+        VisitorInfo="Green fee visitors are welcome on week days (not bank / public holidays) and not before 12:30 pm on Wednesdays. Current handicap certificate is required. It is advisable to pre-book.">
+    <Directions>
+      <Direction Name="Location">
+        Situated on the northbound carrigeway of the A10 between Puckeridge and Buntingford, about one mile north of the junction with the A120.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="Gog Magog" Name="The Gog Magog Golf Club"
+        Secretary="Carole Davison" SecPhone="01223 247626"
+        Address="Shelford Bottom, Cambridge, CB22 3AB"
+        ProName="-" ProPhone="01223 246058"
+        WebSite="http://www.gogmagog.co.uk/"
+        Designer="Hawtree Ltd"
+        Yardage="Old 6398 / Wandlebury 6735" Par="Old 70 / Wandlebury 72"
+        VisitorInfo="Welcome with or without Members during the week, but only with Members at Weekends and Bank Holidays - Handicap Certificate required. Please note Wednesday is Ladies day.">
+    <Directions>
+      <Direction Name="Location">
+        The Gog Magog Golf Club is situated on the A1307, some four miles south of the centre of Cambridge and is easily accessed from London via the M11/A11.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="John O'Gaunt" Name="John O'Gaunt Golf Club"
+        Secretary="-" SecPhone="01767 260360"
+        Address="Sutton Park, Sandy, Bedfordshire, SG19 2LY"
+        ProName="Lee Scarbrow" ProPhone="01767 260094"
+        WebSite="http://www.johnogauntgolfclub.co.uk/"
+        Designer="John O'Gaunt"
+        Yardage="John O'Guant 6513 / Carthagena 5869" Par="John O'Guant 71 / Carthagena 69"
+        VisitorInfo="Contact in advance">
+    <Directions>
+      <Direction Name="Location">
+        Take the Potton Road (B1040) and you will find John O'Guant on the right hand side of
+        the road. The golf course is actually located at Sutton Park, which is shown on any decent map.
+      </Direction>
+    </Directions>
+  </Club>
+  <Club Reference="Letchworth" Name="Letchworth Golf Club"
+        Secretary="Mike Jordan" SecPhone="01462 683203"
+        Address="Letchworth Lane, Letchworth Garden, SG6 3NQ"
+        ProName="Karl Teschner" ProPhone="01462 682713"
+        WebSite=""
+        Designer="Harry Vardon"
+        Yardage="6459" Par="71"
+        VisitorInfo="With member only at weekends. Must contact in advance with handicap certificate.">
+    <Directions>
+      <Direction Name="A1 J9">
+        Don't go to Letchworth, but turn sharp left to Willan Village and on through,
+        barring right into Letchworth Lane, adjacent to Letchworth Hall Hotel.
+        Alternatively go via the A505 Hitchin Road.
+      </Direction>
+    </Directions>
+  </Club>
+  <Club Reference="Old Fold Mannor" Name="Old Fold Mannor Golf Club"
+        Secretary="Brian Cullen" SecPhone="0208 440 9185"
+        Address="Old Fold Lane, Hadley Green, Barnet, Hertfordshire, EN5 4QN"
+        ProName="Peter McEvoy" ProPhone="0208 440 7488"
+        WebSite="http://www.oldfoldmanor.co.uk/"
+        Designer="-"
+        Yardage="6481" Par="71"
+        VisitorInfo="Welcome weekdays, public days. Mondays/Wednesdays £12 per round. Special visitors' concessions at weekends by arrangement.">
+    <Directions>
+      <Direction Name="From M25">
+        Exit at Junction 23, South Mimms taking A1081 to Barnet. Turn left on to A1000.
+        Go past Hadley Commons on the left. First left turning at end of Common is Old Fold Lane. The golf club is ahead, entrance on the right of the building.
+      </Direction>
+      <Direction Name="From Potters Bar">
+        Take A1000 out of Potters Bar towards Barnet. On entering Barnet, and 30 mph zone, go past King Willian pub on the left. Last turning before the common
+        on the right is Old Fold Lane. The golf club is ahead, entrance on the right of the building.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/Saffron Walden/SaffronWalden5th.jpg" Name="5th Hole" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Panshanger" Name="Panshanger Golf Complex"
+        Secretary="TBD" SecPhone="01707 333350"
+        Address="Panshanger Golf Complex, Old Herns Lane, Wlewyn Garden City, Herts, AL7 2ED"
+        ProName="TBD" ProPhone="01707 333350"
+        WebSite="http://www.panshangergolf.co.uk/home.html"
+        Designer="TBC"
+        Yardage="6300" Par="70"
+        VisitorInfo="Visitors are welcome">
+    <Directions>
+      <Direction Name="Location">
+        Situated near the village of Toot Hill in the Epping Forest District of Essex.
+      </Direction>
+      <Direction Name="From A1 South">
+        At junction 4 on the A1, take the 2nd exit onto A414 heading to Hertford/Welwyn Garden City/A6129.
+        At the roundabout take the 1st exit onto A6129 heading to Stanborough/Wheathampstead/A6129.
+        Follow the road for about a mile. At the roundabout take the 2nd exity onto Stanborough Rd/A6129.
+        After another mile, at the roundabout take 2nd exit onto Broadwater Rd/A1000. Follow the road for 1 mile.
+        At the roundabout take 3rd exit onto Mundells/A1000. Slight left on Herns ways until you reach another roundabout.
+        Take 1st onto Herns Lane. Follow sign board to golf complex.
+      </Direction>
+      <Direction Name="From A1 North">
+        At Juncton 4 on the A1 North, take the A414 exit to Hertford/Welwyn Garden City/A6129/Wheathampstead/B653.
+        At the next roundabout, 2nd exit onto Bessemer Road/A1000. Continue for approx 1.5 miles. At roundabout take 1st exit onto Old Herns Lane.
+        Follow sign board to golf complex.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Green Side Bunker" />
+      <Picture Url="" Name="Putting" />
+    </Pictures>
+  </Club>
+
+  <!-- ***************************** -->
+  <Club Reference="Porters Park" Name="Porters Park Golf Club"
+        Secretary="TBC" SecPhone="01923 854127"
+        Address="Porters Park Golf Club, Shenley Hill, Herts, WD7 7AZ"
+        ProName="David Gleeson" ProPhone="01923 854127"
+        WebSite="http://www.porterspark.com"
+        Designer="TBC"
+        Yardage="6059" Par="70"
+        VisitorInfo="Visitors welcome.">
+    <Directions>
+      <Direction Name="Location">
+        Situated in Radlett, Hertfordshire, Porters Park is 15 miles north of central London, inside the M25 and within easy reach of the M1 and the A1
+      </Direction>
+      <Direction Name="From M1 North">
+        Turn off the M1 at junction 7 onto the M10. After a couple of miles the road ends at a roundabout.
+        Take the third exit, following the directions to Radlett on the A5183. When in Radlett, turn left at the
+        second mini roundabout into Shenley Hill. The club is at the top of the hill on the left.
+      </Direction>
+      <Direction Name="From M1 South">
+        Turn off the M1 at junction 5. At the roundabout, take the first exit south along the A41. After 300
+        yards, you will come to a roundabout, take the first exit along the B462 signposted to Radlett. Follow
+        this road to the end and turn right. Turn left at the first mini roundabout into Shenley Hill. The club is at
+        the top of the hill on the left.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/porters park/header107.jpg" Name="Green Side Bunker" />
+      <Picture Url="images/courses/porters park/header114.jpg" Name="Putting" />
+    </Pictures>
+  </Club>
+  <Club Reference="Saffron Walden" Name="Saffron Walden Golf Club"
+        Secretary="TBC" SecPhone="01799 522786"
+        Address="Windmill Hill, Saffrom Walden, CB10 1BX"
+        ProName="Philip Davis" ProPhone="01799 527728"
+        WebSite="http://www.swgc.com"
+        Designer="Henry Cotton"
+        Yardage="6606" Par="72"
+        VisitorInfo="With member only at weekends. Must contact in advance with handicap certificate.">
+    <Directions>
+      <Direction Name="M11 J9">
+        Exit at Junction 9, then take the B1383.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/Saffron Walden/SaffronWalden5th.jpg" Name="5th Hole" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Toot Hill" Name="Toot Hill Golf Club"
+        Secretary="Christine Cameron" SecPhone="01277 365523"
+        Address="Toot Hill Golf Club, School Road, Toot Hill, Ongar, Essex, CM5 9PU"
+        ProName="Mark Bishop" ProPhone="01277 365747"
+        WebSite="http://www.toothillgolfclub.co.uk/index.html"
+        Designer="TBC"
+        Yardage="6254" Par="70"
+        VisitorInfo="Visitors are welcome">
+    <Directions>
+      <Direction Name="Location">
+        Situated near the village of Toot Hill in the Epping Forest District of Essex.
+      </Direction>
+      <Direction Name="From M11">
+        Leave at junction 7 Harlow and take the A414 towards Chelmsford. After 1.2 miles you come to a roundabout take the 1st exit (A414 towards Chelmsford).
+        After 1.2 miles you reach the Talbot roundabout go straight over (2nd exit). After 1.0 miles turn right into Blake Hall Road,
+        after 1.1 miles turn right into Toot Hill Road. Continue into Toot Hill Village, just past the Green Man Pub take the left turn towards
+        Stanford Rivers. The Golf Club is 300 yards on the right hand side.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Green Side Bunker" />
+      <Picture Url="" Name="Putting" />
+    </Pictures>
+  </Club>
+  <Club Reference="North Middlesex" Name="North Middlesex"
+        Secretary="Howard Till" SecPhone="020 8445 1605"
+        Address="The Manor House, Friern Barnet Lane, Whetstone, London, N20 0NL"
+        ProName="Freddy George" ProPhone="020 8445 3060"
+        WebSite="http://www.northmiddlesexgc.co.uk"
+        Designer="Willie Park Junior"
+        Yardage="5625" Par="69"
+        VisitorInfo="Please contact the Pro shop, where every effort will be made to accomodate your needs">
+    <Directions>
+      <Direction Name="Location">
+        Situated five miles south of the M25 Junction 23 between Barnet and
+        Finchley and is just five miles from the city of London and the West End.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Course" />
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <Club Reference="Millbrook" Name="Millbrook"
+        Secretary="Derek Cooke" SecPhone="01525 840252"
+        Address="The Millbrook Golf Course, Millbrook, Bedfordshire, MK45 2JB"
+        ProName="Rob Brightman" ProPhone="01525 402269"
+        WebSite="http://www.themillbrook.com/"
+        Designer=""
+        Yardage="6041" Par="73"
+        VisitorInfo="Visitors welcome, visit web site for special open days.">
+    <Directions>
+      <Direction Name="Location">
+        Situated just 4 miles from the M1. Take Junction 13 of the M1, drive along the
+        A507 towards Ampthill. Turn left at the first cross roads, the club is located
+        on the left
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="" Name="Course" />
+      <Picture Url="" Name="Club House" />
+    </Pictures>
+  </Club>
+  <!-- ***************************** -->
+  <Club Reference="Whipsnade Park" Name="Whipsnade Park Golf Club"
+        Secretary="Ruth Whalley" SecPhone="01442 842330"
+        Address="Whipsnade Park Golf Club, Studham Lane, Dagnall, Berkhamsted, Hertfordshire, HP4 1RH"
+        ProName="Mark Day" ProPhone="01442 842310"
+        WebSite="http://www.whipsnadeparkgolf.co.uk/pages.php/index.html"
+        Designer="TBC"
+        Yardage="6521" Par="73"
+        VisitorInfo="Visitors call in advance to book a tee time on 01442 842310">
+    <Directions>
+      <Direction Name="Location">
+        Whipsnade Park is just 15 minutes from both the M25, M1 and Luton Airport. It is situated between the villages of Studham and Dagnall.
+      </Direction>
+      <Direction Name="From M1 North">
+        Off at the M1 at junction 11. Turn right onto A505 to Dunstable. Carry on through Dunstable, take B489 for Aston Clinton.
+        At the Indian Restaurant at the roundabout, turn left towards Dagnall B4506.
+        Just after the 30mph sign, turn left into Studham Lane.
+        The club is half a mile up the hill on the left hand side.
+      </Direction>
+      <Direction Name="From M1 South">
+        Leave the M1 at junction 8 and take A414. At the 4th roundabout, take the A4146 for Leighton Buzzard.
+        At Dagnall turn right at the roundabout on B4506. After approximately 400 yards turn right into Studham Lane.
+      </Direction>
+    </Directions>
+    <Pictures>
+      <Picture Url="images/courses/porters park/header107.jpg" Name="Green Side Bunker" />
+      <Picture Url="images/courses/porters park/header114.jpg" Name="Putting" />
+    </Pictures>
+  </Club>
+
+</Clubs>

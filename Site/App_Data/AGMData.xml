@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<minutes>
+  <minute season="2013" date="09/12/2013" file="Minutes\AGMMins2013.pdf" preview="Minutes\Preview2013.png" />
+  <minute season="2012" date="17/12/2012" file="Minutes\AGMMins2012.pdf" preview="Minutes\Preview2012.png" />
+  <minute season="2011" date="08/12/2011" file="Minutes\AGMMins2011.pdf" preview="Minutes\Preview2011.png" />
+  <minute season="2010" date="31/10/2010" file="Minutes\AGMMins2010.pdf" preview="Minutes\Preview2010.png" />
+  <minute season="2009" date="04/12/2009" file="Minutes\AGMMins2009.pdf" preview="Minutes\Preview2009.png" />
+  <minute season="2008" date="08/12/2008" file="Minutes\AGMMins2008.pdf" preview="Minutes\Preview2008.png" />
+</minutes>

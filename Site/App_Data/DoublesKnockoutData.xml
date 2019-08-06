@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Seasons>
+  <Season Year="2019" Winner="">
+    <Teams>
+      <Team Name="Waters/Waters">
+        <Players>
+          <Player Name="Peter Waters" />
+          <Player Name="John Waters" />
+        </Players>
+      </Team>
+            <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Ackerman/Grainge">
+        <Players>
+          <Player Name="Clive Ackerman" />
+          <Player Name="David Grainge" />
+        </Players>
+      </Team>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Nisbett/Nisbett">
+        <Players>
+          <Player Name="Steve Nisbett" />
+          <Player Name="Richard Nisbett" />
+        </Players>
+      </Team>
+      <Team Name="Kelley/Patel">
+        <Players>
+          <Player Name="Stan Kelley" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="Pegg/Downham">
+        <Players>
+          <Player Name="Bob Pegg" />
+          <Player Name="Trevor Downham" />
+        </Players>
+      </Team>
+      <Team Name="Lacey/Mitchell">
+        <Players>
+          <Player Name="Peter Lacey" />
+          <Player Name="Ian Mitchell" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Andrews">
+        <Players>
+          <Player Name="Steve Temple" />
+          <Player Name="Colin Andrews" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="Johnston/Turley">
+        <Players>
+          <Player Name="Kevin Johnston" />
+          <Player Name="Damiem Turley" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="1/06/2019">
+        <Games>
+          <Game No="1" Winner="Waters/Waters" Home="Waters/Waters" Away="Bye" Score="-" />
+          <Game No="2" Winner="Clayton/Ellis" Home="Clayton/Ellis" Away="Bye" Score="-" />
+          <Game No="3" Winner="Langridge/Gordon" Home="Ackerman/Grainge" Away="Langridge/Gordon" Score="-" />
+          <Game No="4" Winner="Nisbett/Nisbett" Home="Nisbett/Nisbett" Away="Bye" Score="-" />
+          <Game No="5" Winner="Kelley/Patel" Home="Kelley/Patel" Away="Bye" Score="-" />
+          <Game No="6" Winner="Lacey/Michell" Home="Pegg/Downham" Away="Lacey/Michell" Score="-" />
+          <Game No="7" Winner="MacDermott/Campbell" Home="Temple/Andrews" Away="MacDermott/Campbell" Score="-" />
+          <Game No="8" Winner="Johnston/Turley" Home="Johnston/Turley" Away="Bye" Score="-" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2019">
+        <Games>
+          <Game No="9" Winner="" Home="Clayton/Ellis" Away="Waters/Waters" Score="-" />
+          <Game No="10" Winner="" Home="Nisbett/Nisbett" Away="Langridge/Gordon" Score="-" />
+          <Game No="11" Winner="" Home="Lacey/Michell" Away="Kelley/Patel" Score="-" />
+          <Game No="12" Winner="" Home="Johnston/Turley" Away="MacDermott/Campbell" Score="-" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2019">
+        <Games>
+          <Game No="13" Winner="" Home="Winner Game No 9" Away="Winner Game no 10" Score="-" />
+          <Game No="14" Winner="" Home="Winner Game No 11" Away="Winner Game No 12" Score="-" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2019">
+        <Games>
+          <Game No="15" Winner="" Home="Winner Game No 14" Away="Winner Game No 13" Score="-" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2018" Winner="">
+    <Teams>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Kelley/Light">
+        <Players>
+          <Player Name="Simon Light" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="Lacey/Temple">
+        <Players>
+          <Player Name="Steve Temple" />
+          <Player Name="Peter Lacey" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Millen">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Michael Millen" />
+        </Players>
+      </Team>
+      <Team Name="Dent/Patel">
+        <Players>
+          <Player Name="Tim Dent" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Ackerman/Grainge">
+        <Players>
+          <Player Name="Clive Ackerman" />
+          <Player Name="David Grainge" />
+        </Players>
+      </Team>
+      <Team Name="Waters/Downham">
+        <Players>
+          <Player Name="John Waters" />
+          <Player Name="Trevor Downham" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="1/06/2018">
+        <Games>
+          <Game No="1" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Bye" Score="-" />
+          <Game No="2" Winner="Lacey/Temple" Home="Lacey/Temple" Away="Bye" Score="-" />
+          <Game No="3" Winner="Ackerman/Grainge" Home="Ackerman/Grainge" Away="Bye" Score="-" />
+          <Game No="4" Winner="Sando/Millen" Home="Dent/Patel" Away="Sando/Millen" Score="W/O" />
+          <Game No="5" Winner="Kelley/Light" Home="Kelley/Light" Away="Bye" Score="" />
+          <Game No="6" Winner="Waters/Downham" Home="Waters/Downham" Away="Bye" Score="-" />
+          <Game No="7" Winner="Clayton/Ellis" Home="Clayton/Ellis" Away="Bye" Score="-" />
+          <Game No="8" Winner="MacDermott/Campbell" Home="MacDermott/Campbell" Away="Bye" Score="-" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2018">
+        <Games>
+          <Game No="9" Winner="" Home="Langridge/Gordon" Away="Lacey/Temple" Score="" />
+          <Game No="10" Winner="" Home="Ackerman/Grainge" Away="Sando/Millen" Score="" />
+          <Game No="11" Winner="Waters/Downham" Home="Kelley/Light" Away="Waters/Downham" Score="1 Up" />
+          <Game No="12" Winner="Clayton/Ellis" Home="Clayton/Ellis" Away="MacDermott/Campbell" Score="1 Up" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2018">
+        <Games>
+          <Game No="13" Winner="" Home="Winner Game #9" Away="Winner Game #10" Score="" />
+          <Game No="14" Winner="" Home="Waters/Downham" Away="Clayton/Ellis" Score="" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2018">
+        <Games>
+          <Game No="15" Winner="" Home="Winner Game #13" Away="Winner Game #14" Score="" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  
+  <Season Year="2017" Winner="">
+    <Teams>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Kelley/Light">
+        <Players>
+          <Player Name="Simon Light" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="Lacey/Temple">
+        <Players>
+          <Player Name="Steve Temple" />
+          <Player Name="Peter Lacey" />
+        </Players>
+      </Team>
+      <Team Name="Purkiss/Duthie">
+        <Players>
+          <Player Name="Simon Purkiss" />
+          <Player Name="Bob Duthie" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Millen">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Mick Millen" />
+        </Players>
+      </Team>
+      <Team Name="Madhvani/Patel">
+        <Players>
+          <Player Name="Suru Madhvani" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Turley/Johnston">
+        <Players>
+          <Player Name="Damien Turley" />
+          <Player Name="Kevin Johnston" />
+        </Players>
+      </Team>
+      <Team Name="Ackerman/Grainge">
+        <Players>
+          <Player Name="Clive Ackerman" />
+          <Player Name="David Grainge" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="1/06/2017">
+        <Games>
+          <Game No="1" Winner="Kelley/Light" Home="Kelley/Light" Away="Bye" Score="-" />
+          <Game No="2" Winner="Ackerman/Grainge" Home="Ackerman/Grainge" Away="Bye" Score="-" />
+          <Game No="3" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="Bye" Score="-" />
+          <Game No="4" Winner="Sando/Millen" Home="Sando/Millen" Away="Turley/Johnston" Score="" />
+          <Game No="5" Winner="MacDermott/Campbell" Home="Clayton/Ellis" Away="MacDermott/Campbell" Score="2/1" />
+          <Game No="6" Winner="Purkiss/Duthie" Home="Purkiss/Duthie" Away="Bye" Score="-" />
+          <Game No="7" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Bye" Score="-" />
+          <Game No="8" Winner="Lacey/Temple" Home="Lacey/Temple" Away="Bye" Score="-" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2017">
+        <Games>
+          <Game No="9" Winner="Kelley/Light" Home="Kelley/Light" Away="Ackerman/Grainge" Score="2/1" />
+          <Game No="10" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="Sando/Millen" Score="" />
+          <Game No="11" Winner="MacDermott/Campbell" Home="MacDermott/Campbell" Away="Purkiss/Duthie" Score="" />
+          <Game No="12" Winner="Lacey/Temple" Home="Langridge/Gordon" Away="Lacey/Temple" Score="" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2017">
+        <Games>
+          <Game No="13" Winner="Kelley/Light" Home="Kelley/Light" Away="Madhvani/Patel" Score="1 up" />
+          <Game No="14" Winner="MacDermott/Campbell" Home="MacDermott/Campbell" Away="Lacey/Temple" Score="" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2017">
+        <Games>
+          <Game No="15" Winner="" Home="Kelley/Light" Away="MacDermott/Campbell" Score="" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2016" Winner="">
+    <Teams>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Kelley/Light">
+        <Players>
+          <Player Name="Simon Light" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Andrews">
+        <Players>
+          <Player Name="Colin Andrews" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Grainge/Waters">
+        <Players>
+          <Player Name="David Grainge" />
+          <Player Name="Peter Waters" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Millen">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Mick Millen" />
+        </Players>
+      </Team>
+      <Team Name="Madhvani/Patel">
+        <Players>
+          <Player Name="Suru Madhvani" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="O'Brien/Reilly">
+        <Players>
+          <Player Name="Dave O'Brien" />
+          <Player Name="Sean Reilly" />
+        </Players>
+      </Team>
+      <Team Name="Platten/Lacey">
+        <Players>
+          <Player Name="Ted Platten" />
+          <Player Name="Peter Lacey" />
+        </Players>
+      </Team>
+      <Team Name="Murray/Light">
+        <Players>
+          <Player Name="Chris Murray" />
+          <Player Name="Simon Light" />
+        </Players>
+      </Team>
+      <Team Name="Ellis/Clayton">
+        <Players>
+          <Player Name="Gwyn Ellis" />
+          <Player Name="Robert Clayton" />
+        </Players>
+      </Team>
+      <Team Name="Taylor/Butcher">
+        <Players>
+          <Player Name="Tim Taylor" />
+          <Player Name="Roger Butcher" />
+        </Players>
+      </Team>
+      <Team Name="Rose/Ackerman">
+        <Players>
+          <Player Name="Mick Rose" />
+          <Player Name="Clive Ackerman" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="1/06/2016">
+        <Games>
+          <Game No="1" Winner="O'Brien/Reilly" Home="Sando/Millen" Away="O'Brien/Reilly" Score="5/3" />
+          <Game No="2" Winner="Platten/Lacey" Home="Platten/Lacey" Away="Bye" Score="" />
+          <Game No="3" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Kelley/Light" Score="4/2" />
+          <Game No="4" Winner="Temple/Andrews" Home="Temple/Andrews" Away="Bye" Score="" />
+          <Game No="5" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="MacDermott/Camp" Score="" />
+          <Game No="6" Winner="Taylor/Butcher" Home="Taylor/Butcher" Away="Bye" Score="" />
+          <Game No="7" Winner="Rose/Ackerman" Home="Rose/Ackerman" Away="Grainge/Waters" Score="2 Up" />
+          <Game No="8" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Bye" Score="" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2016">
+        <Games>
+          <Game No="9" Winner="O'Brien/Reilly" Home="O'Brien/Reilly" Away="Platten/Lacey" Score="" />
+          <Game No="10" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Temple/Andrews" Score="1 up" />
+          <Game No="11" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="Taylor/Butcher" Score="3/1" />
+          <Game No="12" Winner="Langridge/Gordon" Home="Rose/Ackerman" Away="Langridge/Gordon" Score="2/1" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2016">
+        <Games>
+          <Game No="13" Winner="O'Brien/Reilly" Home="O'Brien/Reilly" Away="Ellis/Clayton" Score="2/1" />
+          <Game No="14" Winner="" Home="Madhvani/Patel" Away="Langridge/Gordon" Score="" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2016">
+        <Games>
+          <Game No="15" Winner="" Home="O'Brien/Reilly" Away="Winner Game No 14" Score="" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2015" Winner="Ellis/Clayton">
+    <Teams>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="O'Brien/Kelley">
+        <Players>
+          <Player Name="Dave O'Brien" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Andrews">
+        <Players>
+          <Player Name="Colin Andrews" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Grainge/Ackerman">
+        <Players>
+          <Player Name="David Grainge" />
+          <Player Name="Clive Ackerman" />
+        </Players>
+      </Team>
+      <Team Name="Lacey/Millen">
+        <Players>
+          <Player Name="Peter Lacey" />
+          <Player Name="Mick Millen" />
+        </Players>
+      </Team>
+      <Team Name="Madhvani/Patel">
+        <Players>
+          <Player Name="Suru Madhvani" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Sando">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Tony Sando" />
+        </Players>
+      </Team>
+      <Team Name="Pegg/Brown">
+        <Players>
+          <Player Name="Bob Pegg" />
+          <Player Name="Eric Brown" />
+        </Players>
+      </Team>
+      <Team Name="Murray/Light">
+        <Players>
+          <Player Name="Chris Murray" />
+          <Player Name="Simon Light" />
+        </Players>
+      </Team>
+      <Team Name="Ellis/Clayton">
+        <Players>
+          <Player Name="Gwyn Ellis" />
+          <Player Name="Robert Clayton" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="13/06/2015">
+        <Games>
+          <Game No="1" Winner="Sando/Sando" Home="Lacey/Millen" Away="Sando/Sando" Score="5/4" />
+          <Game No="2" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="Bye" Score="" />
+          <Game No="3" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Bye" Score="" />
+          <Game No="4" Winner="Pegg/Brown" Home="Pegg/Brown" Away="Bye" Score="" />
+          <Game No="5" Winner="Murray/Light" Home="Murray/Light" Away="Grainge/Ackerman" Score="1 Up" />
+          <Game No="6" Winner="O'Brien/Kelley" Home="O'Brien/Kelley" Away="Bye" Score="" />
+          <Game No="7" Winner="Temple/Andrews" Home="Temple/Andrews" Away="Bye" Score="" />
+          <Game No="8" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="MacDermott/Campbell" Score="1 Up" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2015">
+        <Games>
+          <Game No="9" Winner="Madhvani/Patel" Home="Sando/Sando" Away="Madhvani/Patel" Score="2 Up" />
+          <Game No="10" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Pegg/Brown" Score="" />
+          <Game No="11" Winner="O'Brien/Kelley" Home="Murray/Light" Away="O'Brien/Kelley" Score="1 Up" />
+          <Game No="12" Winner="Temple/Andrews" Home="Temple/Andrews" Away="Langridge/Gordon" Score="" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2015">
+        <Games>
+          <Game No="13" Winner="Ellis/Clayton" Home="Madhvani/Patel" Away="Ellis/Clayton" Score="3/2" />
+          <Game No="14" Winner="O'Brien/Kelley" Home="O'Brien/Kelley" Away="Temple/Andrews" Score="19th" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2015">
+        <Games>
+          <Game No="15" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="O'Brien/Kelley" Score="3/2" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2014" Winner="Ellis/Clayton">
+    <Teams>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="O'Brien/Sando">
+        <Players>
+          <Player Name="Dave O'Brien" />
+          <Player Name="Tony Sando" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Andrews">
+        <Players>
+          <Player Name="Colin Andrews" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Grainge/Grainge">
+        <Players>
+          <Player Name="David Grainge" />
+          <Player Name="Tom Grainge" />
+        </Players>
+      </Team>
+      <Team Name="Ackerman/Butcher">
+        <Players>
+          <Player Name="Clive Ackerman" />
+          <Player Name="Roger Butcher" />
+        </Players>
+      </Team>
+      <Team Name="Madhvani/Patel">
+        <Players>
+          <Player Name="Suru Madhvani" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+      <Team Name="MacDermott/Campbell">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Steve Campbell" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Fobbester">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Richard Fobbester" />
+        </Players>
+      </Team>
+      <Team Name="West/Bench">
+        <Players>
+          <Player Name="Brian West" />
+          <Player Name="Michael Bench" />
+        </Players>
+      </Team>
+      <Team Name="Turley/Johnston">
+        <Players>
+          <Player Name="Damien Turley" />
+          <Player Name="Kevin Johnston" />
+        </Players>
+      </Team>
+      <Team Name="Ellis/Clayton">
+        <Players>
+          <Player Name="Gwyn Ellis" />
+          <Player Name="Robert Clayton" />
+        </Players>
+      </Team>
+
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="13/06/2014">
+        <Games>
+          <Game No="1" Winner="Grainge/Grainge" Home="Ackerman/Butcher" Away="Grainge/Grainge" Score="4/3" />
+          <Game No="2" Winner="O'Brien/Sando" Home="O'Brien/Sando" Away="Bye" Score="" />
+          <Game No="3" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Sando/Fobbester" Score="2/1" />
+          <Game No="4" Winner="Madhvani/Patel" Home="Madhvani/Patel" Away="Bye" Score="" />
+          <Game No="5" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Bye" Score="" />
+          <Game No="6" Winner="Temple/Andrews" Home="Temple/Andrews" Away="Bye" Score="" />
+          <Game No="7" Winner="MacDermott/Campbell" Home="West/Bench" Away="MacDermott/Campbell" Score="5/4" />
+          <Game No="8" Winner="Turley/Johnston" Home="Turley/Johnston" Away="Bye" Score="" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2014">
+        <Games>
+          <Game No="9" Winner="Grainge/Grainge" Home="Grainge/Grainge" Away="O'Brien/Sando" Score="3/2" />
+          <Game No="10" Winner="Madhvani/Patel" Home="Langridge/Gordon" Away="Madhvani/Patel" Score="3/1" />
+          <Game No="11" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="Temple/Andrews" Score="6/5" />
+          <Game No="12" Winner="MacDermott/Campbell" Home="MacDermott/Campbell" Away="Turley/Johnston" Score="4/3" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2014">
+        <Games>
+          <Game No="13" Winner="Grainge/Grainge" Home="Grainge/Grainge" Away="Madhvani/Patel" Score="6/5" />
+          <Game No="14" Winner="Ellis/Clayton" Home="Ellis/Clayton" Away="MacDermott/Campbell" Score="20th" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2014">
+        <Games>
+          <Game No="15" Winner="Ellis/Clayton" Home="Grainge/Grainge" Away="Ellis/Clayton" Score="2/1" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2013" Winner="Greenwold/Kelley">
+    <Teams>
+      <Team Name="MacDermott/Turley">
+        <Players>
+          <Player Name="Nick MacDermott" />
+          <Player Name="Damien Turley" />
+        </Players>
+      </Team>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Greenwold/Kelley">
+        <Players>
+          <Player Name="Phil Greenwold" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="O'Brien/Ashbolt">
+        <Players>
+          <Player Name="Dave O'Brien" />
+          <Player Name="Chris Ashbolt" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Andrews">
+        <Players>
+          <Player Name="Colin Andrews" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Grainge/Grainge">
+        <Players>
+          <Player Name="David Grainge" />
+          <Player Name="Tom Grainge" />
+        </Players>
+      </Team>
+      <Team Name="Ackerman/Butcher">
+        <Players>
+          <Player Name="Clive Ackerman" />
+          <Player Name="Roger Butcher" />
+        </Players>
+      </Team>
+      <Team Name="Brown/Pegg">
+        <Players>
+          <Player Name="Eric Brown" />
+          <Player Name="Bob Pegg" />
+        </Players>
+      </Team>
+      <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Sando/Fobbester">
+        <Players>
+          <Player Name="Gary Sando" />
+          <Player Name="Richard Fobbester" />
+        </Players>
+      </Team>
+      <Team Name="West/McNaughton">
+        <Players>
+          <Player Name="Brian West" />
+          <Player Name="John McNaughton" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="13/06/2013">
+        <Games>
+          <Game No="1" Winner="MacDermott/Turley" Home="MacDermott/Turley" Away="Bye" Score="N/A" />
+          <Game No="2" Winner="Greenwold/Kelley" Home="Langridge/Gordon" Away="Greenwold/Kelley" Score="bye" />
+          <Game No="3" Winner="O'Brien/Ashbolt" Home="O'Brien/Ashbolt" Away="Bye" Score="N/A" />
+          <Game No="4" Winner="Temple/Andrews" Home="Temple/Andrews" Away="Grainge/Grainge" Score="bye" />
+          <Game No="5" Winner="Ackerman/Butcher" Home="Ackerman/Butcher" Away="Bye" Score="N/A" />
+          <Game No="6" Winner="Brown/Pegg" Home="Brown/Pegg" Away="Bye" Score="N/A" />
+          <Game No="7" Winner="Clayton/Ellis" Home="Clayton/Ellis" Away="Sando/Fobbester" Score="2/1" />
+          <Game No="8" Winner="West/McNaughton" Home="West/McNaughton" Away="Bye" Score="N/A" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="17/07/2013">
+        <Games>
+          <Game No="9" Winner="Greenwold/Kelley" Home="MacDermott/Turley" Away="Greenwold/Kelley" Score="3/2" />
+          <Game No="10" Winner="Temple/Andrews" Home="O'Brien/Ashbolt" Away="Temple/Andrews" Score="5/4" />
+          <Game No="11" Winner="Ackerman/Butcher" Home="Ackerman/Butcher" Away="Brown/Pegg" Score="W/O" />
+          <Game No="12" Winner="Clayton/Ellis" Home="Clayton/Ellis" Away="West/McNaughton" Score="4/2" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="21/08/2013">
+        <Games>
+          <Game No="13" Winner="Greenwold/Kelley" Home="Greenwold/Kelley" Away="Temple/Andrews" Score="4/3" />
+          <Game No="14" Winner="Clayton/Ellis" Home="Ackerman/Butcher" Away="Clayton/Ellis" Score="2/1" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="21/09/2013">
+        <Games>
+          <Game No="15" Winner="Greenwold/Kelley" Home="Greenwold/Kelley" Away="Clayton/Ellis" Score="1 up" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2012" Winner="Greenwold/Kelley">
+    <Teams>
+      <Team Name="Greenwold/Kelley">
+        <Players>
+          <Player Name="Phil Greenwold" />
+          <Player Name="Stan Kelley" />
+        </Players>
+      </Team>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Caswell/Temple">
+        <Players>
+          <Player Name="Craig Caswell" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Waters/David Grainge">
+        <Players>
+          <Player Name="Peter Waters" />
+          <Player Name="David Grainge" />
+        </Players>
+      </Team>
+      <Team Name="West/McNaughton">
+        <Players>
+          <Player Name="Brian West" />
+          <Player Name="John McNaughton" />
+        </Players>
+      </Team>
+      <Team Name="Mac/Pegg">
+        <Players>
+          <Player Name="John Mac" />
+          <Player Name="Bob Pegg" />
+        </Players>
+      </Team>
+      <Team Name="Brembrick/Caswell">
+        <Players>
+          <Player Name="Leigh Bembrick" />
+          <Player Name="Jamie Caswell" />
+        </Players>
+      </Team>
+      <Team Name="Andrews/Patel">
+        <Players>
+          <Player Name="Colin Andrews" />
+          <Player Name="Bhupi Patel" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="01/06/2012">
+        <Games>
+          <Game No="1" Winner="Waters/Grainge" Home="Langridge/Gordon" Away="Waters/Grainge" Score="?" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="15/07/2012">
+        <Games>
+          <Game No="2" Winner="Waters/Grainge" Home="Waters/Grainge" Away="West/McNaughton" Score="7/5" />
+          <Game No="3" Winner="Mac/Pegg" Home="Clayton/Ellis" Away="Mac/Pegg" Score="1 up" />
+          <Game No="4" Winner="Andrews/Patel" Home="Bembrick/Caswell" Away="Andrews/Patel" Score="4/2" />
+          <Game No="5" Winner="Greenwold/Kelley" Home="Greenwold/Kelley" Away="Caswell/Temple" Score="1 up" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="01/09/2012">
+        <Games>
+          <Game No="6" Winner="Waters/Grainge" Home="Waters/Grainge" Away="Mac/Pegg" Score="W/O" />
+          <Game No="7" Winner="Greenwold/Kelley" Home="Andrews/Patel" Away="Greenwold/Kelley" Score="5/4" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="01/10/2012">
+        <Games>
+          <Game No="8" Winner="Greenwold/Kelley" Home="Greenwold/Kelley" Away="Waters/Grainge" Score="-" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2011" Winner="Caswell/Temple">
+    <Teams>
+      <Team Name="Kelley/Morris">
+        <Players>
+          <Player Name="Stan Kelley" />
+          <Player Name="David Morris" />
+        </Players>
+      </Team>
+      <Team Name="Greenwold/Anlexander">
+        <Players>
+          <Player Name="Phil Greenwold" />
+          <Player Name="Andy ALexander" />
+        </Players>
+      </Team>
+      <Team Name="Butcher/Dent">
+        <Players>
+          <Player Name="Roger Butcher" />
+          <Player Name="Tim Dent" />
+        </Players>
+      </Team>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Clayton/Ellis">
+        <Players>
+          <Player Name="Robert Clayton" />
+          <Player Name="Gwyn Ellis" />
+        </Players>
+      </Team>
+      <Team Name="Caswell/Temple">
+        <Players>
+          <Player Name="Craig Caswell" />
+          <Player Name="Steve Temple" />
+        </Players>
+      </Team>
+      <Team Name="Tom Grainge/Turley">
+        <Players>
+          <Player Name="Tom Grainge" />
+          <Player Name="Damien Turley" />
+        </Players>
+      </Team>
+      <Team Name="Waters/David Grainge">
+        <Players>
+          <Player Name="Peter Waters" />
+          <Player Name="David Grainge" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="04/06/2011">
+        <Games>
+          <Game No="1" Winner="Kelley/Morris" Home="Kelley/Morris" Away="Greenwold/Alexander" Score="19th" />
+          <Game No="2" Winner="Langridge/Gordon" Home="Butcher/Dent" Away="Langridge/Gordon" Score="?" />
+          <Game No="3" Winner="Caswell/Temple" Home="Clayton/Ellis" Away="Caswell/Temple" Score="2/1" />
+          <Game No="4" Winner="Waters/David Grainge" Home="Tom Grainge/Turley" Away="Waters/David Grainge" Score="6/4" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="01/07/2011">
+        <Games>
+          <Game No="5" Winner="Kelley/Morris" Home="Kelley/Morris" Away="Langridge/Gordon" Score="19th" />
+          <Game No="6" Winner="Caswell/Temple" Home="Caswell/Temple" Away="Waters/David Grainge" Score="3/2" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="01/10/2011">
+        <Games>
+          <Game No="7" Winner="Caswell/Temple" Home="Kelley/Morris" Away="Caswell/Temple" Score="20th" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+  <Season Year="2010" Winner="Langridge/Gordon">
+    <Teams>
+      <Team Name="McNaughton/West">
+        <Players>
+          <Player Name="John McNaughton" />
+          <Player Name="Brian West" />
+        </Players>
+      </Team>
+      <Team Name="Temple/Caswell">
+        <Players>
+          <Player Name="Steve Template" />
+          <Player Name="Craig Caswell" />
+        </Players>
+      </Team>
+      <Team Name="Dent/Butcher">
+        <Players>
+          <Player Name="Tim Dent" />
+          <Player Name="Roger Butcher" />
+        </Players>
+      </Team>
+      <Team Name="Johnston/Ackerman">
+        <Players>
+          <Player Name="Kevin Johnston" />
+          <Player Name="Clive Ackerman" />
+        </Players>
+      </Team>
+      <Team Name="Langridge/Gordon">
+        <Players>
+          <Player Name="Steve Langridge" />
+          <Player Name="Ken Gordon" />
+        </Players>
+      </Team>
+      <Team Name="Greenwold/Alexander">
+        <Players>
+          <Player Name="Phil Greenwold" />
+          <Player Name="Andy Alexander" />
+        </Players>
+      </Team>
+      <Team Name="Kelley/Morris">
+        <Players>
+          <Player Name="Stan Kelley" />
+          <Player Name="David Morris" />
+        </Players>
+      </Team>
+      <Team Name="Ellis/Clayton">
+        <Players>
+          <Player Name="Gwyn Ellis" />
+          <Player Name="Robert Clayton" />
+        </Players>
+      </Team>
+      <Team Name="Grainge/Waters">
+        <Players>
+          <Player Name="David Grainge" />
+          <Player Name="Peter Waters" />
+        </Players>
+      </Team>
+      <Team Name="Bye">
+        <Players>
+          <Player Name="Bye" />
+          <Player Name="" />
+        </Players>
+      </Team>
+    </Teams>
+    <Rounds>
+      <Round No="1" Cutoff="04/06/2010">
+        <Games>
+          <Game No="1" Winner="McNaughton/West" Home="McNaughton/West" Away="Dent/Butcher" Score="Walkover" />
+        </Games>
+      </Round>
+      <Round No="2" Cutoff="01/07/2010">
+        <Games>
+          <Game No="2" Winner="Langridge/Gordon" Home="McNaughton/West" Away="Langridge/Gordon" Score="4/2" />
+          <Game No="3" Winner="Johnston/Ackerman" Home="Temple/Caswell" Away="Johnston/Ackerman" Score="6/5" />
+          <Game No="4" Winner="Greenwold/Alexander" Home="Greenwold/Alexander" Away="Kelley/Morris" Score="4/3" />
+          <Game No="5" Winner="Grainge/Waters" Home="Ellis/Clayton" Away="Grainge/Waters" Score="3/2" />
+        </Games>
+      </Round>
+      <Round No="3" Cutoff="01/09/2010">
+        <Games>
+          <Game No="5" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Johnston/Ackerman" Score="1 UP" />
+          <Game No="6" Winner="Greenwold/Alexander" Home="Greenwold/Alexander" Away="Grainge/Waters" Score="4/3" />
+        </Games>
+      </Round>
+      <Round No="4" Cutoff="01/10/2010">
+        <Games>
+          <Game No="7" Winner="Langridge/Gordon" Home="Langridge/Gordon" Away="Greenwold/Alexander" Score="?" />
+        </Games>
+      </Round>
+    </Rounds>
+  </Season>
+</Seasons>

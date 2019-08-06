@@ -1,0 +1,86 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="OrderOfMerit.aspx.cs" Inherits="OrderOfMerit" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="contentDetails" Runat="Server">
+    <img src="images/design/label_orderofmerit.png" alt="Order of Merit" width="750" height="40" />
+    <asp:ScriptManager ID="ScriptManager" runat="server" />
+    <asp:UpdatePanel ID="UpdatePanel" runat="server">
+        <ContentTemplate>
+            <div>
+                <p>
+                    <asp:Literal ID="litCompetition" runat="server" Text="Competition:" />
+                    <asp:DropDownList runat="server" ID="cbCompetition" AutoPostBack="true" OnSelectedIndexChanged="cbCompetition_SelectedIndexChanged" DataSourceID="CompetitionListDataSource" DataTextField="Display" DataValueField="Reference" />
+                    <aspq:LinqDataSource ID="CompetitionListDataSource" runat="server" OnSelecting="CompetitionListDataSource_Selecting" />
+                </p>
+            </div>
+            <div>
+                <p>
+                    <dxrp:ASPxRoundPanel ID="ASPxRoundPanel2" runat="server" HeaderText="Competition Information" ShowHeader="false">
+                        <PanelCollection>
+                            <dxrp:PanelContent ID="PanelContent1" runat="server" >
+                                <asp:Panel CssClass="scrollArea2" runat="server" ID="scrollData" ScrollBars="Vertical">
+                                    <dxdv:ASPxDataView ID="grid" runat="server" ColumnCount="1" 
+                                                       DataSourceID="CompetitionSource" EnableDefaultAppearance="False" EnableTheming="False" 
+                                                       RowPerPage="1" >
+                                        <PagerSettings Visible="true" />
+                                        <Paddings Padding="0px" />
+                                        <ItemTemplate>
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td valign="top">
+                                                            <table ID="infotable" runat="server" border="0" cellpadding="0" cellspacing="4">
+                                                                <tr>
+                                                                    <td class="dxcp_tCategory">Name:</td>
+                                                                    <td class="dxcp_tInfo">
+                                                                        <dxe:ASPxLabel ID="NameLabel" runat="server" Text='<%# Eval("Name") %>' />
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="dxcp_tCategory">Format:</td>
+                                                                    <td class="dxcp_tInfo">
+                                                                        <dxe:ASPxLabel ID="FormatLabel" runat="server" Text='<%# Eval("Format") %>' />
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="dxcp_tCategory">Trophy:</td>
+                                                                    <td class="dxcp_tInfo">
+                                                                        <dxe:ASPxLabel ID="Trophy" runat="server" 
+                                                                                       Text='<%# Eval("Cup") %>' />
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="dxcp_tCategory">Current Winner:</td>
+                                                                    <td class="dxcp_tInfo">
+                                                                        <dxe:ASPxLabel ID="CurrentWinnerLabel" runat="server" 
+                                                                                       Text='<%# Eval("CurrentWinner") %>' />
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="dxcp_tCategory">History:</td>
+                                                                    <td class="dxcp_tInfo">
+                                                                        <dxe:ASPxLabel ID="HistoryLabel" runat="server" Text='<%# Eval("History") %>' />
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </ItemTemplate>
+                                        <ItemStyle Width="100%" />
+                                    </dxdv:ASPxDataView>
+                                </asp:Panel>
+                                <aspq:LinqDataSource ID="CompetitionSource" runat="server" 
+                                                     OnSelecting="CompetitionSource_Selecting" />
+                            </dxrp:PanelContent>
+                        </PanelCollection>
+                    </dxrp:ASPxRoundPanel>
+                </p>
+                <p class="moreinfo">
+                    <dxe:ASPxHyperLink ID="lnkHistory" runat="server" ImageUrl="images/design/btn_winners.png" ImageHeight="31" />
+                </p>
+            </div>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+
+</asp:Content>

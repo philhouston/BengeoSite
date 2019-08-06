@@ -1,0 +1,495 @@
+﻿/******************************************/
+/*  Fonts 
+font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+font-family: 'Yellowtail', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Tangerine', cursive;
+*/
+
+
+/*******************************/
+/* General Site Level settings */
+
+/*******************************/
+
+/* General settings for the page body */
+
+body {
+    background-color: #004400;
+    margin-left: 50%;
+    margin-top: 0px;
+}
+
+/* General settings for all DIV elements */
+
+div {
+    background-color: #FFFFCC;
+    border-style: none;
+}
+
+
+/* General settings for all H1 elements */
+
+h1 {
+    color: #003300;
+    font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+/* General settings for all paragraphs */
+
+p {
+    color: #006633;
+    font-size: 11px;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    color: #006633;
+    font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 11px;
+    line-height: 12px;
+    list-style-position: inside;
+    list-style-type: circle;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    text-indent: 0px;
+}
+
+li {
+    margin-top: 0px;
+    padding-top: 0px;
+    text-indent: 0px;
+}
+
+/************************/
+/* Master Page Settings */
+/************************/
+
+
+
+/* Settings for the main DIV on the master page */
+
+#mastercontent {
+    margin-left: -375px;
+    position: relative;
+    width: 750px;
+}
+
+
+/* Setting for the "established 1981" tagline on the site master page */
+
+#tagline {
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+
+/* Settings for the DIV used to host the principle content placeholder */
+
+#contents {
+    height: 429px;
+    left: 0px;
+    position: absolute;
+    top: 185px;
+    width: 750px;
+}
+
+/* Settings for the DIV used for the header menu */
+
+#header {
+    position: absolute;
+    top: 0px;
+    width: 750px;
+}
+
+/* Settings for the DIV used for the main banner */
+
+#banner {
+    background-color: #FFFFCC;
+    border-style: none;
+    position: absolute;
+    top: 34px;
+    /*	background-color: #003300; */
+    width: 750px;
+}
+
+/* Settings for the DIV used to display the name of the golf society */
+
+#societyname {
+    background-color: Transparent;
+    color: #003300;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    left: 357px;
+    top: 31px;
+}
+
+.Photo {
+    background-color: Transparent;
+    border-color: #003300;
+    border-style: double;
+    border-width: 2px;
+    left: 630px;
+    position: absolute;
+    top: 45px;
+    max-height: 60px;
+    max-width: 60px;
+}
+
+
+#established {
+    background-color: Transparent;
+    color: #FFFFCC;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    right: 15px;
+    text-align: right;
+    top: 170px;
+}
+
+div.gridmargin1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+div.gridmargin2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 525px;
+}
+
+
+
+#subnav {
+    border-top: 1px solid #333333;
+    height: 25px;
+    position: absolute;
+    top: 614px;
+    width: 750px;
+}
+
+#subnav p {
+    line-height: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+#footer {
+    border-top: 1px solid #003300;
+    color: #003300;
+    position: absolute;
+    text-align: center;
+    top: 639px;
+    width: 750px;
+}
+
+
+
+/******************************/
+/* Grids                      */
+/******************************/
+
+.Grid {
+    background-color: white;
+    margin: 5px 0 10px 0;
+    font-size: 14px;
+    color: #003300;
+}
+
+.Grid th {
+    font-size: 12px;
+    background-color: #003300;
+    color: #ffffcc;
+}
+
+
+/******************************/
+/* Buttons                    */
+/******************************/
+
+.topbutton {
+    background: #ffffcc;
+    color: #003300;
+    font-family: 'Yellowtail', Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin:  2px 10px 2px 10px;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.middlebutton {
+    background: #003300 ;
+    color: #ffffcc;
+    font-family: 'Yellowtail', Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 20px;
+    margin:  2px 2px;
+    padding: 2px 2px 2px 2px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    text-decoration: underline;
+    cursor: pointer;
+    width: 150px;
+}
+
+.creambutton {
+    background: #ffffcc;
+    color: #003300;
+    font-family: 'Yellowtail', Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+    font-size: 20px;
+    margin:  2px 2px;
+    padding: 2px 2px 2px 2px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    text-decoration: underline;
+    cursor: pointer;
+    width: 100px;
+
+}
+
+
+/**********************/
+/* Home Page Settings */
+/**********************/
+
+/* Settings for the "more info" link on the home page */
+
+p.moreinfo {
+    height: 31px;
+    padding-right: 35px;
+/*    text-align: right;*/
+}
+
+td.right {
+    text-align: right;
+}
+
+table {
+    width: auto;
+}
+
+/* Settings for the "about" DIV on the main home page */
+
+#about {
+    height: 429px;
+    position: absolute;
+    right: 549px;
+    top: 0px;
+    width: 400px;
+}
+
+/* Settings for the P element within the "about" DIV */
+
+#about p {
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+/* Settings for the "about" DIV on the main home page */
+
+#about {
+    height: 454px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+
+/* Settings for the P element within the "about" DIV */
+
+#about p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Settings for the "fixture info" DIV on the home page */
+
+#fixtureinfo {
+    height: 429px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 400px;
+}
+
+
+/* Settings for the P element within the "fixture info" DIV */
+
+#fixtureinfo p {
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+
+
+/* Settings for the DIV element used to host the testimonials on the home page */
+
+#testimonials {
+    background-color: #003300;
+    height: 429px;
+    left: 205px;
+    position: absolute;
+    top: 0px;
+    width: 150px;
+}
+
+/* Settings for the P element within the "testimonials" DIV */
+
+#testimonials p {
+    color: #FFFFCC;
+    font-style: italic;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+
+/******************************/
+/* About Bengeo Page Settings */
+/******************************/
+
+/* Settings for the "more info" link on the home page */
+
+p.moreinfo {
+    height: 31px;
+    padding-right: 35px;
+    text-align: right;
+}
+
+/* Settings for the "history" DIV on the about home page */
+
+#history {
+    height: 429px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 575px;
+}
+
+/* Settings for the P element within the "history" DIV */
+
+#history p {
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+/* Settings for the DIV element used to host the extra links on the about page */
+
+#societylinks {
+    background-color: #003300;
+    height: 429px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 175px;
+}
+
+/* Settings for the P element within the "society links" DIV */
+
+#societylinks p {
+    color: #FFFFCC;
+    font-style: italic;
+    padding-left: 40px;
+    padding-right: 25px;	
+}
+
+/* Settings for the "conduct" DIV on the about page */
+/*#conduct
+{
+	width: 175px;
+	height: 429px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}*/
+
+/* Settings for the P element within the "conduct" DIV */
+
+#conduct p {
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+/******************************/
+/* Club Info Page             */
+/******************************/
+
+.dxcp_tCategory {
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.dxcp_tInfo { padding-left: 7px; }
+
+.scrollArea2 {
+    background-color: Transparent;
+    height: 250px;
+    width: 680px;
+}
+
+.scrollArea1 {
+    background-color: Transparent;
+    height: 190px;
+    width: 680px;
+}
+
+
+
+/*********************************/
+/* Fixture Info Page             */
+/*********************************/
+
+#summary {
+    background-color: #003300;
+    height: 389px;
+    left: 575px;
+    position: absolute;
+    top: 40px;
+    width: 175px;
+}
+
+/* Settings for the P element within the "testimonials" DIV */
+
+#summary p {
+    color: #FFFFCC;
+    font-style: italic;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+#fixtureinfodetails {
+    background-color: #FFFFCC;
+    height: 389px;
+    left: 0px;
+    position: absolute;
+    top: 40px;
+    width: 575px;
+}
+
+#fixtureinfodetails p {
+    color: #003300;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+

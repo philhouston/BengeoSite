@@ -1,0 +1,311 @@
+.crpage {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crheader {
+    background-color: #B2B2B2;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crheader A {
+    color: #000000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crheader A:hover {
+    color: #FF0000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crtitle {
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 10pt;
+}
+
+.crpagepath {
+    background-color: #006699;
+    color: #ffffff;
+    padding-left: 10;
+}
+
+.crpagepath A {
+    color: #FFFFFF;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crpagepath A:hover {
+    color: #FF0000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crwizard {
+    background-color: #CAC9D9;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crwizardtabbackground {
+    background-color: #CAC9D9;
+    color: #000000
+}
+
+.crwizardtoolbar {
+    background-color: #CAC9D9;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crwizardtoolbar A {
+    color: #000000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crwizardtoolbar A.hover {
+    color: #FF0000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crwizardformula {
+    background-color: #CAC9D9;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crwizardfields {
+    background-color: #CAC9D9;
+    color: #000000;
+    font-family: verdana, Arial;
+}
+
+.crsearchresults {
+    background-color: #FFFFFF;
+    color: #636384;
+    font-family: verdana, Arial;
+}
+
+.crsearchresults A {
+    color: #636384;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crsearchresults A:hover {
+    color: #636384;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crsearchresultstitle {
+    background-color: #DFDEEA;
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.crsearchresultstoolbar {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.crsearchresultstoolbar A {
+    color: #0000FF;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crsearchresultstoolbar A:hover {
+    color: #FF00FF;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crcaption {
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 14pt;
+}
+
+
+.crtoolbar {
+    background-color: #E4E4EC;
+    border-bottom: 1px solid #BEBED1;
+    border-top: 1px solid #FFFFFF;
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 8pt;
+}
+
+
+.crtoolbar A {
+    color: #000000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crtoolbar A:hover {
+    color: #FF0000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crtoolbar A IMG {
+    border-style: none;
+    border-width: 0
+}
+
+.crtoolbarlist {
+    font-family: verdana, Arial;
+    font-size: 8pt;
+}
+
+.crtoolbartextbox {
+    font-family: verdana, Arial;
+    font-size: 8pt;
+}
+
+.crtoptoolbar {
+    background-color: #0073AA;
+    color: #FFFFFF;
+}
+
+.crtoptoolbar A {
+    color: #FFFFFF;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crtoptoolbar A:hover {
+    color: #FF0000;
+    cursor: hand;
+    text-decoration: none;
+}
+
+.crcontent { font-size: 12pt; }
+
+
+.promptBorder { background-color: black; }
+
+.promptHeader {
+    background-color: teal;
+    border-width: thin;
+    color: #F5F5F5;
+    font-family: verdana, Arial;
+    font-weight: bold;
+}
+
+.promptElement { background-color: #DFDFDF; }
+
+.promptElementText {
+    color: #444444;
+    font-family: verdana, Arial;
+    font-size: 10pt;
+}
+
+.promptingText {
+    color: #444444;
+    font-family: verdana, Arial;
+    font-size: 12pt;
+}
+
+.promptRuler { color: #444444; }
+
+.promptMessage {
+    color: #444444;
+    font-family: verdana, Arial;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.promptTextBox {
+    background-color: #FFFFFF;
+    border-bottom: thin solid;
+    border-color: #000000;
+    border-left: thin solid;
+    border-right: thin solid;
+    border-top: thin solid;
+    font-family: verdana, Arial;
+}
+
+.promptButton {
+    border-bottom: thin solid;
+    border-left: thin solid;
+    border-right: thin solid;
+    border-top: thin solid;
+    font-family: verdana, Arial;
+    font-size: 10pt;
+}
+
+.promptDropDown {
+    border-bottom: thin solid;
+    border-left: thin solid;
+    border-right: thin solid;
+    border-top: thin solid;
+    font-family: verdana, Arial;
+}
+
+.promptListBox {
+    border-bottom: thin solid;
+    border-left: thin solid;
+    border-right: thin solid;
+    border-top: thin solid;
+    font-family: verdana, Arial;
+}
+
+.CRGridViewerToolbar {
+    background-color: #E4E4EC;
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 8pt
+}
+
+.CRGridViewerNavigationBar {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 8pt;
+}
+
+.CRGridViewerHeading {
+    background-color: #CAC9D9;
+    border-width: 1;
+    font-family: verdana, Arial;
+    height: 40;
+}
+
+				
+.CRGridViewerCell {
+    border-width: 1;
+    font-family: verdana, Arial;
+    padding: 2px;
+    text-align: center;
+}	
+				
+				
+.CRGridViewerTable { font-family: verdana, Arial; }
+
+.crgrptr a {
+    color: #000000;
+    font-family: verdana, Arial;
+    font-size: 10pt;
+}
+
+.crgrptr a:hover {
+    color: #ff0000;
+    cursor: hand;
+    text-decoration: underline;
+}
+
+.crgrplvl1 { }
+
+.crgrplvl2 { }

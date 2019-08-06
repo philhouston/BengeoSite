@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head runat="server">
+        <link rel="Stylesheet" href="css/Master.css" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans|Roboto|Tangerine|Yellowtail" rel="stylesheet"/>       
+        <title>Bengeo Golf Society</title>
+        <%--<meta http-equiv="X-UA-Compatible" content="IE=7" />--%>
+       <meta name="viewport" content="width=device-width"/>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+
+            <div id="mastercontent">
+                <div id="banner">
+                    <a href="default.aspx">
+                        <img src="images/design/header_home.png" alt="Bengeo Golf Society" id="bannerImage" runat="server" style="width: 751px; height: 172px;" />
+                    </a>
+                </div>
+                <div id="societyname">
+                    Bengeo Golf Society
+                </div>
+                <div id="established">
+                    Established 1981
+                </div>
+                <div id="contents">
+                    <asp:ContentPlaceHolder id="contentDetails" runat="server" >
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="header">
+                    <a href="about.aspx" class="topbutton">About Us</a>
+                    <a href="fixturelistpage.aspx" class="topbutton" >Fixture</a>
+                    <a href="resultlistpage.aspx" class="topbutton" >Results</a>
+                    <a href="membershistory.aspx" class="topbutton" >Members</a>
+                    <a href="mailto:secretary@bengeogolfsociety.org.uk?subject=Query from Bengeo Web Site" class="topbutton" >Contact Us</a>
+                </div>
+                <div id="subnav">
+                    <p>
+                        <a href="default.aspx">home</a>&nbsp; | &nbsp;
+                        <a href="about.aspx">about us</a>&nbsp; | &nbsp;
+                        <a href="fixturelistpage.aspx">fixtures</a>&nbsp; | &nbsp;
+                        <a href="resultlistpage.aspx">results</a>&nbsp; | &nbsp;
+                        <a href="membershistory.aspx">members</a>&nbsp; | &nbsp;
+                        <a href="mailto:secretary@bengeogolfsociety.org.uk?subject=Query from Bengeo Web Site">contact us</a>&nbsp; | &nbsp;
+                    </p>
+                </div>
+            
+                <div id="footer">
+                    <p>&copy;2009 Designed and Developed for Bengeo Golf Society<br />
+                        by Phil Houston</p>
+                </div>
+            </div>
+        </form>
+    </body>
+</html>
